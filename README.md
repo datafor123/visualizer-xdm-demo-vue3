@@ -1,39 +1,29 @@
-# visualizer-xdm-demo-vue3
+# Communite with visualizer report via XDM (VueJS Version)
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository contains the source code for the Vue3 version of the Communite with visualizer report via XDM app.
 
-## Recommended IDE Setup
+If you are looking for the Angular version of the app, please visit [this repository](https://github.com/datafor123/visualizer-xdm-demo-angular).
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+If you are looking for the ReactJS version of the app, please visit [this repository](https://github.com/datafor123/visualizer-xdm-demo).
 
-## Type Support for `.vue` Imports in TS
+## Install the dependencies
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+Download the source code and run the following command in the root directory of the project.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+## Start the app
 
-```sh
+```bash
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+## View the app
 
-```sh
-npm run build
-```
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
-### Lint with [ESLint](https://eslint.org/)
+## Running screenshot of the app
 
-```sh
-npm run lint
-```
+<img width="1680" alt="Screenshot 2024-08-19 at 10 53 26" src="https://github.com/user-attachments/assets/69f536a1-b5d0-425b-8d03-5cea349ba729">
